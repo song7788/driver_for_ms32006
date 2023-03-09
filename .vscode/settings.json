@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Makefile": "c",
+        "i2c_contorl.h": "c"
+    }
+}
